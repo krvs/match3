@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb7aca47d4325649b0f4a93b4aacfd6, type: 3}
+  m_Name: CellSpawnerSystem
+  m_EditorClassIdentifier: 
+  Config: {fileID: 11400000, guid: 454ff8e9e132d7f4085f183a029338a7, type: 2}
